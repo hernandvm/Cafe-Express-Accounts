@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=StudentExpressAccount
+comment0.text=\r\n\ \r\n\ File\:\ StudentExpressAccount.java\r\n\ Project\:\ CS150\ Project\ 2,\ Fall\ 2022\r\n\ Date\:\ 9/27/2022\r\n\ E-mail\:\ hernandv@lafayette.edu\r\n\ \r\n\ Class\ Description\:\ \r\n\ This\ StudentExpressAccount\ class\ is\ a\ superclass\ of\ ExpressAccount\r\n\ which\ includes\ a\ constructor\ and\ overriden\ makeDeposit\ methods\ that\ create\ \r\n\ an\ StudentExpressAccount\ object\ (student\ express\ card\ account).\ \r\n\ This\ superclass\ will\ allow\ for\ the\ account\ information\ to\ be\ changed\r\n\ and\ managed\ when\ its\ methods\ are\ called.\r\n\r\n\ @author\ Victor\ Hernandez\ Jr\r\n\ @version\ September\ 27,\ 2022\r\n
+comment1.params=accNum
+comment1.target=StudentExpressAccount(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ StudentExpressAccount\r\n
+comment2.params=deposit
+comment2.target=void\ makeDeposit(double)
+comment2.text=\r\n\ Name\:\ makeDeposit\r\n\ Preconditon\:\ deposit\ is\ less\ than\ base\ amount\ for\ deposit\ bonus\r\n\ Postcondition\:\ account\ balance\ increases\ based\ on\ deposit\ value\r\n\ with\ deposit\ bonus\ if\ earned\r\n\ @param\ deposit\ -\ deposit\ value\ entered\ by\ express\ account\ owner\r\n\ @return\r\n
+numComments=3
