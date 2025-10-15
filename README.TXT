@@ -46,11 +46,9 @@ Key Classes & Methods
     * Getters/setters for account properties
   
   StudentExpressAccount & FacultyExpressAccount
-  Implement account-specific bonus structures
-  
-  Set account-specific meal prices
-  
-  Override makeDeposit() with type-specific bonus calculations
+    * Implement account-specific bonus structures
+    * Set account-specific meal prices
+    * Override makeDeposit() with type-specific bonus calculations
 
 How to Run
   Prerequisites
@@ -106,5 +104,6 @@ Academic Context
 
 Version
   September 27, 2022
+
 
 
