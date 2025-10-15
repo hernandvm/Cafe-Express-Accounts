@@ -10,40 +10,40 @@ Features
   Account Management: Create new accounts and log into existing ones
 
   Financial Operations:
-    - Make deposits with bonus rewards
-    - Purchase meals at account-specific rates
-    - Track account balances
+    * Make deposits with bonus rewards
+    * Purchase meals at account-specific rates
+    * Track account balances
 
   Meal Management:
-    - Purchase meals in bulk
-    - Use meals (swipe functionality)
-    - Track remaining meal counts
+    * Purchase meals in bulk
+    * Use meals (swipe functionality)
+    * Track remaining meal counts
 
   Input Validation: Robust error handling for user inputs
 
 Account Types & Benefits
   Student Accounts
-    - Meal price: $10.00 per meal
-    - Deposit bonus: $2.00 bonus for every $200 deposited above $500
-    - Base bonus threshold: $500
+    * Meal price: $10.00 per meal
+    * Deposit bonus: $2.00 bonus for every $200 deposited above $500
+    * Base bonus threshold: $500
 
   Faculty Accounts
-    - Meal price: $8.00 per meal
-    - Deposit bonus: 1% bonus on all deposits
-    - No minimum deposit requirement for bonuses
+    * Meal price: $8.00 per meal
+    * Deposit bonus: 1% bonus on all deposits
+    * No minimum deposit requirement for bonuses
 
 Key Classes & Methods
   ExpAcct (Main Class)
-    - main() - Program entry point
-    - subMenu() - Account management interface
-    - Input validation methods for deposits and meal purchases
-    - Menu display and selection handlers
+    * main() - Program entry point
+    * subMenu() - Account management interface
+    * Input validation methods for deposits and meal purchases
+    * Menu display and selection handlers
   
   ExpressAccount (Abstract Base Class)
-    - makeDeposit() - Abstract method for deposits
-    - purchaseMeals() - Meal purchasing logic
-    - haveMeal() - Meal usage functionality
-    - Getters/setters for account properties
+    * makeDeposit() - Abstract method for deposits
+    * purchaseMeals() - Meal purchasing logic
+    * haveMeal() - Meal usage functionality
+    * Getters/setters for account properties
   
   StudentExpressAccount & FacultyExpressAccount
   Implement account-specific bonus structures
@@ -54,8 +54,8 @@ Key Classes & Methods
 
 How to Run
   Prerequisites
-    - Java JDK 8 or higher
-    - BlueJ IDE (recommended) or any Java development environment
+    * Java JDK 8 or higher
+    * BlueJ IDE (recommended) or any Java development environment
   
   Compilation and Execution
     1. Open the project in BlueJ
@@ -102,8 +102,9 @@ Author
   CS150 Project 2, Fall 2022
 
 Academic Context
-  This project was developed for CS150 (Computer Science I) at Lafayette College, demonstrating object-oriented programming principles, inheritance, polymorphism, and user interface design.
+  This project was developed for CS150 (Data Structures & Algorithms) at Lafayette College, demonstrating object-oriented programming principles, inheritance, polymorphism, and user interface design.
 
 Version
   September 27, 2022
+
 
