@@ -15,12 +15,6 @@ A Java-based console application for managing student and faculty express card a
 3. Run the `ExpAcct` class
 4. Follow the menu prompts to interact with the system
 
-### Alternative: Command Line
-```bash
-javac *.java
-java ExpAcct
-```
-
 ## Features
 - **Dual Account Types**: Support for both Student and Faculty express accounts
 - **Account Management**: Create new accounts and log into existing ones
@@ -45,7 +39,6 @@ java ExpAcct
 - Meal price: $8.00 per meal
 - Deposit bonus: 1% bonus on all deposits
 - No minimum deposit requirement for bonuses
-
 
 ## Key Classes & Methods
 
