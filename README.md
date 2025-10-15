@@ -3,6 +3,24 @@
 ## Project Overview
 A Java-based console application for managing student and faculty express card accounts. This system allows users to create accounts, make deposits, purchase meals, and track meal usage through an interactive menu-driven interface.
 
+## How to Run
+
+### Prerequisites
+- Java JDK 8 or higher
+- BlueJ IDE (recommended) or any Java development environment
+
+### Compilation and Execution
+1. Open the project in BlueJ
+2. Compile all Java files
+3. Run the `ExpAcct` class
+4. Follow the menu prompts to interact with the system
+
+### Alternative: Command Line
+```bash
+javac *.java
+java ExpAcct
+```
+
 ## Features
 - **Dual Account Types**: Support for both Student and Faculty express accounts
 - **Account Management**: Create new accounts and log into existing ones
@@ -47,24 +65,6 @@ A Java-based console application for managing student and faculty express card a
 - Implement account-specific bonus structures
 - Set account-specific meal prices
 - Override `makeDeposit()` with type-specific bonus calculations
-
-## How to Run
-
-### Prerequisites
-- Java JDK 8 or higher
-- BlueJ IDE (recommended) or any Java development environment
-
-### Compilation and Execution
-1. Open the project in BlueJ
-2. Compile all Java files
-3. Run the `ExpAcct` class
-4. Follow the menu prompts to interact with the system
-
-### Alternative: Command Line
-```bash
-javac *.java
-java ExpAcct
-```
 
 ## Usage Instructions
   1. **Main Menu Options**:
