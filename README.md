@@ -1,4 +1,4 @@
-# Cafe Express Accounts Management System
+# Cafe Express Accounts
 
 ## Project Overview
 A Java-based console application for managing student and faculty express card accounts. This system allows users to create accounts, make deposits, purchase meals, and track meal usage through an interactive menu-driven interface.
@@ -89,9 +89,9 @@ A Java-based console application for managing student and faculty express card a
   - Object-Oriented Design: Inheritance and polymorphism
 
 ## Author
-  Victor Hernandez Jr  
-  Lafayette College  
-  CS150 Project 2, Fall 2022
+**Victor Hernandez Jr**  
+Lafayette College  
+CS150 Project 2, Fall 2022
 
 ## Academic Context
 This project was developed for CS150 (Data Structures & Algorithms) at Lafayette College, demonstrating object-oriented programming principles, inheritance, polymorphism, and user interface design.
